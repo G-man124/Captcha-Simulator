@@ -3,4 +3,4 @@
 > **Note:** This simulator only supports text-based captchas.
 
 #### Preview:
-https://github.com/user-attachments/assets/bb08ae7b-c600-4940-980d-95700dfbad68
+https://github.com/user-attachments/assets/5f66a381-0650-4841-b9f2-ad849b3a6525
